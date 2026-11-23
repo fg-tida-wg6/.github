@@ -1,4 +1,4 @@
-# FG-TIDA WG6: ICAP
+# FG-TIDA WG6: COP
 
 ## Working group
 
