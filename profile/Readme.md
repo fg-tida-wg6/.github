@@ -1,4 +1,4 @@
-# FG-TIDA WG6: COP
+# FG-TIDA WG6: Regulated domains: Athena 
 
 ## Working group
 
